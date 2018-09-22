@@ -1,6 +1,6 @@
 # Массивы
 
-Array manipulation in Zephir provides a way to use PHP [array](http://www.php.net/manual/en/language.types.array.php). An array is an implementation of a [hash table](http://en.wikipedia.org/wiki/Hash_table).
+Массив манипуляции в Зефир предоставляет способ использования PHP-[массив](http://www.php.net/manual/en/language.types.array.php). Массив является реализацией [хэш-таблицы](http://en.wikipedia.org/wiki/Hash_table).
 
 <a name='declaring-array-variables'></a>
 
