@@ -1,4 +1,4 @@
-# Массивы
+# Arrays Crowdin rocks
 
 Массив манипуляции в Зефир предоставляет способ использования PHP-[массив](http://www.php.net/manual/en/language.types.array.php). Массив является реализацией [хэш-таблицы](http://en.wikipedia.org/wiki/Hash_table).
 
@@ -14,7 +14,7 @@ Array variables can be declared using the keywords 'var' or 'array':
 
 <a name='creating-arrays'></a>
 
-## Создание массивов
+## Creating Arrays new
 
 An array is created by enclosing its elements in square brackets:
 
