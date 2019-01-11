@@ -1,4 +1,4 @@
-# Arrays
+# Arrays Crowdin rocks
 
 Array manipulation in Zephir provides a way to use PHP [array](http://www.php.net/manual/en/language.types.array.php). An array is an implementation of a [hash table](http://en.wikipedia.org/wiki/Hash_table).
 
@@ -14,7 +14,7 @@ Array variables can be declared using the keywords 'var' or 'array':
 
 <a name='creating-arrays'></a>
 
-## Creating Arrays
+## Creating Arrays new
 
 An array is created by enclosing its elements in square brackets:
 
