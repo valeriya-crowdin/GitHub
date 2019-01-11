@@ -9,7 +9,7 @@ Array variables can be declared using the keywords 'var' or 'array':
     array b = []; // array variable, its type cannot be changed across execution
 
 <a name='creating-arrays'></a>
-## Creating Arrays
+## Creating Arrays new
 An array is created by enclosing its elements in square brackets:
 
     // Creating an empty array
