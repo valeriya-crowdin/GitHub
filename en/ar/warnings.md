@@ -1,6 +1,6 @@
-# Compiler Warnings
+# Попередження компілятора
 
-The compiler raises warnings when it finds situations where the code can be improved, or a potential error can be avoided.
+Компілятор піднімає попередження, коли вона знаходить ситуаціях де код може бути покращено, або потенційних помилок можна уникнути.
 
 Warnings can be enabled via command line parameters, or can be added to the `config.json` to enable or disable them more permanently.
 
